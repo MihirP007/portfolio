@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 import {styles} from "../styles";
 import {navLinks} from "../constants";
 import {close, logo, menu} from "../assets";
-// import '../../Sahil Prasad Resume 12.22.pdf';
+// import '../../Mihir Prasad Resume 12.22.pdf';
 
 const Navbar = () => {
     const [active, setActive] = useState("");
